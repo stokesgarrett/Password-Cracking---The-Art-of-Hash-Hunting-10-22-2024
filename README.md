@@ -22,4 +22,4 @@ This lab focused on utilizing password cracking techniques using VirtualBox and 
 
 ## Navigating This Repository
 
-- 'Password Cracking - The Art Of Hash Hunting.pdf' is the in-depth, 65 page final report that covers all the ins and outs of our Capstone Project.
+- 'Password Cracking - The Art Of Hash Hunting.pdf' is the final report for this project.
